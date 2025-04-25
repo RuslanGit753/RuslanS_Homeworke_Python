@@ -2,7 +2,7 @@ from string_utils import StringUtils
 import pytest
 
 
-@pytest.fixture
+@pytest.fixture(scope="session")
 def string_utils():
     return StringUtils()
 
