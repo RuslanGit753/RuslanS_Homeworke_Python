@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2376","test_summary_total","lesson_10.homework.test","Wed Jun 25 13:15:15 MSK 2025","passed","Wed Jun 25 13:15:17 MSK 2025","","test_shop","",""
+"","47577","test_result","lesson_10.homework.test","Wed Jun 25 13:14:22 MSK 2025","passed","Wed Jun 25 13:15:09 MSK 2025","","test_calc","",""
